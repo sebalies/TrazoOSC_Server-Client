@@ -1,3 +1,6 @@
+// TrazoVJ 1.1
+// @ Sebastian Alies - www.sebastianalies.com // 
+
 import controlP5.*;
 import spout.*;
 

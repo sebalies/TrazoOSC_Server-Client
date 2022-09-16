@@ -1,3 +1,6 @@
+// TrazoOSC - Server
+// @ Sebastian Alies - www.sebastianalies.com // 
+
 import oscP5.*;
 import netP5.*;
 import controlP5.*;

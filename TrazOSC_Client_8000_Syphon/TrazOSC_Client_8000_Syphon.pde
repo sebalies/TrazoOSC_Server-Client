@@ -1,3 +1,6 @@
+// TrazoOSC - Client / Syphon
+// @ Sebastian Alies - www.sebastianalies.com // 
+
 import oscP5.*;
 import netP5.*;
 import codeanticode.syphon.*;

@@ -1,3 +1,6 @@
+// TrazoOSC - Client / Spout
+// @ Sebastian Alies - www.sebastianalies.com //
+
 import spout.*;
 import oscP5.*;
 import netP5.*;
